@@ -1,0 +1,14 @@
+{
+    "name": "atomik/atomik-skeleton",
+    "description": "Application skeleton for Atomik Framework",
+    "homepage": "https://github.com/maximebf/atomik/skeleton",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0",
+        "atomik/atomik": ">=3.0.0"
+    },
+    "suggest": {
+        "kriswallsmith/assetic": "Required for the Assets plugin",
+        "maximebf/ConsoleKit": "Required for the Console plugin"
+    }
+}

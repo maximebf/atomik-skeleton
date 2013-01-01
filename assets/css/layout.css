@@ -1,0 +1,11 @@
+
+body {
+  padding-top: 60px;
+}
+
+.hero-unit {
+  background: #e5eabf;
+}
+  .hero-unit h1 strong {
+    color: #b2c60d;
+  }
