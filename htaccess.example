@@ -1,3 +1,5 @@
+# RENAME THIS FILE TO .htaccess
+
 <IfModule mod_rewrite.c>
 	RewriteEngine on
 	

@@ -9,3 +9,5 @@ let you start building your project in a matter of seconds!
 
 Navigate to your website in your browser (ie. <http://localhost>) where you should
 see a congratulation message.
+
+To activate pretty URLs, rename the htaccess.example file to .htaccess
