@@ -5,7 +5,8 @@
     "license": "MIT",
     "require": {
         "php": ">=5.3.0",
-        "atomik/atomik": ">=3.0.0"
+        "atomik/atomik": "3.*",
+        "maximebf/debugbar": "1.*"
     },
     "suggest": {
         "kriswallsmith/assetic": "Required for the Assets plugin",
