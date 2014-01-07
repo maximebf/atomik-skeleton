@@ -3,8 +3,9 @@
 <IfModule mod_rewrite.c>
 	RewriteEngine on
 	
-	# Allow access to assets folder from plugins folders
+	# Allow access to assets folder
 	RewriteRule ^app/plugins/(.+)/assets - [L]
+	RewriteRule ^vendor/maximebf/debugbar/src/DebugBar/Resources - [L]
 	
 	# forbid access to files and folders under app and vendor
 	RewriteRule ^app/.*$ - [L,F]
